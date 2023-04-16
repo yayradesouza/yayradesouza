@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yayradesouza
 - 👀 I’m interested in data science applications in the agricultural sector, most likely computer vision applications
-- 🌱 I’m currently learning devops using kubernetes
+- 🌱 I’m currently learning frontend development and devops using kubernetes
 - 💞️ I’m looking to collaborate on computer vision applications in data science
 - 📫 How to reach me ,contact me on Linkedin: linkedin.com/in/yayra-de-souza
 <!---
